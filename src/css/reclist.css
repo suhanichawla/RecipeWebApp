@@ -1,0 +1,13 @@
+
+
+@media (max-width: 580px) {
+  .listdiv {
+    display: block;
+  }
+}
+
+.listdiv{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
